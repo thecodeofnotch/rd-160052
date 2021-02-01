@@ -1,7 +1,7 @@
 # rd-160052 (Pre-Classic)
 Development phase: May 16, 2009 (00:00 - 00:52 UTC+2)
 
-![House](.assets/particles.jpg)<br>
+![Particles](.assets/particles.jpg)<br>
 A dirt tile destroyed in the recreation
 
 ## Changes
